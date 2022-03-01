@@ -2,7 +2,7 @@ package com.teamb.freenext.test.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-/* 커밋테스트 */
+
 @Controller
 @RequestMapping("/test/*")
 public class TestController {
